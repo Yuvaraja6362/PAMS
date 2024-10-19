@@ -1,0 +1,79 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+}
+
+.headlabel {
+    margin-left: 0.75em;
+    margin-bottom: 0.75em;
+}
+
+#Title {
+    /*    margin: 1em;*/
+    color: white;
+    background-color: black;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+#Parking {
+    color: mediumseagreen;
+}
+
+.labels {
+    font-weight: bold;
+    color: mediumseagreen;
+}
+
+.subheadlabels {
+    margin-bottom: 1em;
+    font-size: larger;
+}
+
+.textbox {
+    padding: 0.25em;
+    margin: 0.5em;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#datafield {
+    margin-left: 1em;
+}
+
+.radiobt {
+}
+
+.dislab {
+    color: black;
+}
+
+#Block1 {
+    display: flex;
+    width: 100%;
+}
+
+#datafield {
+    flex: 1;
+    /*    width: 50%;*/
+}
+
+#tablefield {
+    flex: 1;
+    /*    width: 50%;*/
+}
+
+.dd {
+    width: 100px;
+    height: 30px;
+}
